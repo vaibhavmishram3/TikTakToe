@@ -19,24 +19,21 @@ Interactive gameplay for two players
 Real-time game status updates
 Responsive design for various screen sizes
 Restart game functionality
+
 Installation
+
 To run this project locally, follow these steps:
 
 Clone the repository:
-
-bash
-Copy code
 git clone https://github.com/yourusername/tictactoe.git
+
 Navigate to the project directory:
-
-bash
-Copy code
 cd tictactoe
-Open index.html in your preferred web browser:
 
-bash
-Copy code
+Open index.html in your preferred web browser:
 open index.html
+
+
 Usage
 Open the game in your web browser.
 Player 1 (X) and Player 2 (O) take turns clicking on the grid to mark their symbols.
@@ -48,20 +45,14 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 Fork the repository.
 
 Create a new branch for your feature or bugfix:
-
-bash
-Copy code
 git checkout -b feature-name
+
 Commit your changes:
-
-bash
-Copy code
 git commit -m "Add some feature"
-Push to the branch:
 
-bash
-Copy code
+Push to the branch:
 git push origin feature-name
+
 Open a Pull Request and describe your changes.
 
 License
